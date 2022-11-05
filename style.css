@@ -1,0 +1,26 @@
+
+/*Style Header*/
+ul#menu-1-d15dfa6 {
+    width: 100%;
+    padding: 0.2rem;
+    gap: 1px;
+    justify-content: space-between;
+}
+ul#menu-1-d15dfa6 li {
+    width: 33%;
+}
+
+ul#menu-1-d15dfa6 li a {
+    border: 1px solid;
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+/*Style Footer*/
+@media (max-width:736){
+    [data-id="4532b24"] .elementor-icon-box-content {
+        display: none;
+    }
+}
